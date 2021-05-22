@@ -12,9 +12,14 @@ For Compressing Text file:
 2. Enter the name of Text File to be Compressed.
 3. A new File with extension(.cmp) is generated, this is your Compressed file.
 
+Note: The file will lose any data which is not in utf-8 format during the Compression and Decompression.
+
 For Decompressing Text file:
 1. Run Decompressor.py in terminal by typing "python Decompressor.py".
 2. Enter the name of File to be Decompressed, it must have a (.cmp) extension.
 3. A new File with the same name as the input file is generated, this is your Decompressed file.
+
+
+Note: The file will lose any data which is not in utf-8 format during the Compression and Decompression.
 
 Happy Coding!!!
